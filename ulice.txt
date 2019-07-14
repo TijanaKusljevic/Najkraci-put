@@ -1,0 +1,16 @@
+2 3 70 1 svetogorska
+1 2 50 1 diljska
+2 1 50 1 diljska
+1 3 76 2.7 makedonska
+2 4 20 9.0 makedonska
+4 5 55 6.5 astronomska
+3 4 56 7.8 takovska
+6 3 26 3.4 smiljaniceva
+6 8 30 4.5 sindjeliceva
+7 9 12 3.4 smiljaniceva
+9 7 67 5.8 smiljaniceva
+3 7 110 1.4 generala_aracica
+7 8 98 12 gospodara_vucica
+9 6 40 3 gospodara_vucica
+9 3 79 9 bulevar_kralja_aleksandra
+3 9 80 12 bulevar_kralja_aleksandra
